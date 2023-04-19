@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/vscode/devcontainers/java:0-17
+FROM dwcjava/sandbox:000
